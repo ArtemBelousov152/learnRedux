@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "1e73e7ea-6727-47fe-97e5-55d9b9351699",
+      "name": "Второй герой",
+      "description": "Сидитл",
+      "element": "fire"
+    },
+    {
+      "id": "7ebf3d10-de11-4d5c-b4ac-a8f7e69a0da3",
+      "name": "Айк",
+      "description": "Зомби умею",
+      "element": "earth"
+    },
+    {
+      "id": "f57acb46-99c5-4b55-b58a-6de49a4be329",
+      "name": "asdasd",
+      "description": "asdasda",
+      "element": "wind"
+    },
+    {
+      "id": "bfe9420e-55ab-45ff-a95d-d1a57daca85e",
+      "name": "asd",
+      "description": "asd",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
